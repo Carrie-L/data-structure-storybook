@@ -1,0 +1,19 @@
+{
+  "completed_stories": 1,
+  "total_stories": 100,
+  "current_story": "数组（Array）",
+  "last_updated": "2025-5-31",
+  "completed_topics": [
+    {
+      "id": 1,
+      "topic": "数组（Array）",
+      "filename": "01_数组的记忆宫殿.md",
+      "status": "completed",
+      "word_count": 1200,
+      "rewritten": true,
+      "rewrite_date": "2025-5-31"
+    }
+  ],
+  "writing_style": "updated_prompt_v2",
+  "notes": "按照新的story_prompt.md重新创作，强调纯真童趣的成人叙事风格，女性科研群体角色设定"
+}
